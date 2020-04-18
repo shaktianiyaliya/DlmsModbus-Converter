@@ -1014,11 +1014,11 @@ int main(void)
   UARTInit(3, 9600);
   energy_meter_init();
 
-  //
+  //Infinite loop
 
   while (true) {
 	  if(sendReply)
-	  {
+	  {	
 		  UARTSend(3, reply.data, reply.size);
 		  		//}
 		  bb_clear(&reply);
