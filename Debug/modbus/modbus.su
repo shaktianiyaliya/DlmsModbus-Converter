@@ -1,0 +1,10 @@
+modbus.c:31:6:initTimer0	4	static
+modbus.c:45:6:delayMS	16	static
+modbus.c:62:10:calculate_crc16	24	static
+modbus.c:104:6:construct_rtu_req	24	static
+modbus.c:123:10:get_time_out_value	4	static
+modbus.c:130:10:get_time_out_count	8	static
+modbus.c:143:9:read_modbus_reg	56	static
+modbus.c:284:6:modbus_master_init	8	static
+modbus.c:298:7:modbus_uart_send	16	static
+modbus.c:315:6:UART1_IRQHandler	16	static

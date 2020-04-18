@@ -1,0 +1,6 @@
+cosem.c:52:5:cosem_getObjectSize	24	static
+cosem.c:332:5:cosem_createObject	32	static
+cosem.c:374:5:cosem_createObject2	32	static
+cosem.c:388:5:cosem_setLogicalName	16	static
+cosem.c:396:5:cosem_init	32	static
+cosem.c:406:5:cosem_init2	32	static

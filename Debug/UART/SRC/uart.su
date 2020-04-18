@@ -1,0 +1,3 @@
+core_cm3.h:912:22:NVIC_EnableIRQ	16	static
+uart.c:109:11:UARTInit	32	static
+uart.c:215:6:UARTSend	24	static

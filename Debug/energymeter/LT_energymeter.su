@@ -1,0 +1,13 @@
+LT_energymeter.c:7:10:read	24	static
+LT_energymeter.c:45:10:readVoltage	24	static
+LT_energymeter.c:78:10:readCurrent	24	static
+LT_energymeter.c:107:10:readActPower	24	static
+LT_energymeter.c:136:10:readReActPower	24	static
+LT_energymeter.c:165:10:readAppaPower	24	static
+LT_energymeter.c:194:10:readPowerFactor	24	static
+LT_energymeter.c:221:10:readTotalActivePower	16	static
+LT_energymeter.c:279:10:readTotalApparentPower	16	static
+LT_energymeter.c:307:10:readTotalPowerFactor	16	static
+LT_energymeter.c:334:10:readLineFrequency	16	static
+LT_energymeter.c:362:10:readPhaseSequence	16	static
+LT_energymeter.c:385:6:energy_meter_init	8	static

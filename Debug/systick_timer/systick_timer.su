@@ -1,0 +1,4 @@
+systick_timer.c:19:10:get_systick_count	4	static
+systick_timer.c:31:6:init_systick	4	static
+systick_timer.c:55:10:get_elapsed_time	16	static
+systick_timer.c:73:6:SysTick_Handler	4	static

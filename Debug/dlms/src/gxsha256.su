@@ -1,0 +1,4 @@
+gxsha256.c:81:6:gxsha256_transform	336	static
+gxsha256.c:124:5:gxsha256_update	48	static
+gxsha256.c:149:5:gxsha256_final	40	static
+gxsha256.c:169:5:gxsha256_encrypt	200	static

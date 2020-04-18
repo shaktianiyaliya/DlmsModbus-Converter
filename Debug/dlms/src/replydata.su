@@ -1,0 +1,4 @@
+replydata.c:42:15:reply_isMoreData	16	static
+replydata.c:50:6:reply_init	16	static
+replydata.c:69:6:reply_clear2	16	static
+replydata.c:94:6:reply_clear	16	static

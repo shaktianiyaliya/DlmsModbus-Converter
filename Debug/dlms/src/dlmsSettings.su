@@ -1,0 +1,16 @@
+dlmsSettings.c:50:6:svr_init	32	static
+dlmsSettings.c:85:6:cl_init	24	static
+dlmsSettings.c:147:6:cl_clear	16	static
+dlmsSettings.c:180:6:svr_clear	16	static
+dlmsSettings.c:186:6:resetBlockIndex	16	static
+dlmsSettings.c:192:6:resetFrameSequence	16	static
+dlmsSettings.c:207:15:increaseReceiverSequence	16	static
+dlmsSettings.c:218:15:increaseSendSequence	16	static
+dlmsSettings.c:224:15:checkFrame	24	static
+dlmsSettings.c:287:15:getNextSend	16	static
+dlmsSettings.c:301:15:getReceiverReady	16	static
+dlmsSettings.c:308:15:getKeepAlive	16	static
+dlmsSettings.c:316:15:isCiphered	16	static
+dlmsSettings.c:323:6:trans_init	16	static
+dlmsSettings.c:330:6:trans_clear	16	static
+dlmsSettings.c:337:6:updateInvokeId	16	static

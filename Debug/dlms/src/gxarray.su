@@ -1,0 +1,10 @@
+gxarray.c:44:6:arr_init	16	static
+gxarray.c:53:5:arr_capacity	16	static
+gxarray.c:75:5:arr_push	16	static
+gxarray.c:98:6:arr_clear	24	static
+gxarray.c:119:6:arr_empty	16	static
+gxarray.c:132:5:arr_get	16	static
+gxarray.c:143:5:arr_getByIndex	24	static
+gxarray.c:153:6:arr_clearKeyValuePair	24	static
+gxarray.c:174:6:arr_clearStrings	24	static
+gxarray.c:194:5:arr_removeByIndex	32	static

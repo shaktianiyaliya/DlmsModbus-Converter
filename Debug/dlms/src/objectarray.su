@@ -1,0 +1,16 @@
+objectarray.c:41:6:oa_init	16	static
+objectarray.c:52:6:oa_isAttached	16	static
+objectarray.c:57:16:oa_getCapacity	16	static
+objectarray.c:63:6:oa_capacity	16	static
+objectarray.c:80:6:oa_attach	24	static
+objectarray.c:90:5:oa_verify	32	static
+objectarray.c:111:5:oa_push	16	static
+objectarray.c:135:6:oa_copy	24	static
+objectarray.c:147:6:oa_clear2	24	static
+objectarray.c:171:6:oa_clear	24	static
+objectarray.c:201:6:oa_empty	16	static
+objectarray.c:219:5:oa_getByIndex	24	static
+objectarray.c:233:5:oa_findBySN	40	static
+objectarray.c:259:5:oa_findByLN	40	static
+objectarray.c:289:5:oa_getObjects	40	static
+objectarray.c:315:5:oa_getObjects2	40	static

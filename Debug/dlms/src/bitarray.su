@@ -1,0 +1,13 @@
+bitarray.c:47:16:ba_getByteCount	32	static
+bitarray.c:62:5:getByteIndex	32	static
+bitarray.c:70:6:ba_init	16	static
+bitarray.c:81:6:ba_capacity	24	static
+bitarray.c:106:6:ba_set	16	static
+bitarray.c:113:6:ba_setByIndex	40	static
+bitarray.c:149:5:ba_add	48	static
+bitarray.c:194:5:ba_copy	32	static
+bitarray.c:212:6:ba_clear	16	static
+bitarray.c:227:5:ba_get	24	static
+bitarray.c:238:5:ba_getByIndex	40	static
+bitarray.c:250:5:ba_toInteger	32	static
+bitarray.c:267:7:ba_toString	32	static

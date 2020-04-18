@@ -1,0 +1,148 @@
+!SESSION 2019-12-18 16:18:05.565 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:18:55.255
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:18:55.388
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:18:59.504
+!MESSAGE Target: ARM, Version: 7.1.0, Build date: 20170201-1344, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:18:59.506
+!MESSAGE Workspace: G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter
+
+!ENTRY LicenseSystem 1 0 2019-12-18 16:18:59.549
+!MESSAGE Updated java.library.path to: C:;C:\Program Files (x86)\Atollic\TrueSTUDIO for ARM 7.1.0\ide;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/bin/client;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/bin;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter;;.
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:19:00.360
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:19:00.362
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:19:00.363
+!MESSAGE License system initialized in 535ms
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:19:00.381
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:19:00.382
+!MESSAGE This installation is running as LITE
+
+!ENTRY org.eclipse.jface 2 0 2019-12-18 16:19:08.132
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-12-18 16:19:08.132
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@142a276,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@148fa72,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-12-18 16:19:25.765
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-12-18 16:19:27.006
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-18 16:19:29.259
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:21:05.423
+!MESSAGE Unloading product manager
+!SESSION 2019-12-18 16:21:08.735 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:21:13.580
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:21:13.602
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:21:14.688
+!MESSAGE Target: ARM, Version: 7.1.0, Build date: 20170201-1344, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:21:14.688
+!MESSAGE Workspace: G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter
+
+!ENTRY LicenseSystem 1 0 2019-12-18 16:21:14.692
+!MESSAGE Updated java.library.path to: C:;C:\Program Files (x86)\Atollic\TrueSTUDIO for ARM 7.1.0\ide;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/bin/client;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/bin;C:/Program Files (x86)/Atollic/TrueSTUDIO for ARM 7.1.0/ide/jre/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;G:\AMI Project\DLMS CODE\DlmsModbusConverter\DlmsModbusConverter;;.
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:21:15.098
+!MESSAGE Valid local features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:21:15.098
+!MESSAGE Valid network features found: 0
+
+!ENTRY TrueSTUDIO License 1 0 2019-12-18 16:21:15.099
+!MESSAGE License system initialized in 301ms
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:21:15.105
+!MESSAGE License numbers: 0 []
+
+!ENTRY TrueSTUDIO 1 0 2019-12-18 16:21:15.105
+!MESSAGE This installation is running as LITE
+
+!ENTRY org.eclipse.jface 2 0 2019-12-18 16:21:16.553
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-12-18 16:21:16.553
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@163ada5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@548f9a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-12-18 16:21:20.773
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-12-18 16:21:20.844
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-18 16:21:20.929
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-12-18 16:21:47.512
+!MESSAGE Unloading product manager

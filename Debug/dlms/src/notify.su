@@ -1,0 +1,6 @@
+notify.c:45:5:notify_getData	24	static
+notify.c:53:5:notify_addData	104	static
+notify.c:79:5:notify_generateDataNotificationMessages2	112	static
+notify.c:107:5:notify_generateDataNotificationMessages	48	static
+notify.c:141:5:notify_generatePushSetupMessages	48	static
+notify.c:178:5:notify_parsePush	144	static

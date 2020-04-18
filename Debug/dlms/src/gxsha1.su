@@ -1,0 +1,4 @@
+gxsha1.c:50:6:gxsha1_transform	48	static
+gxsha1.c:148:6:gxsha1_update	96	static
+gxsha1.c:162:5:gxsha1_final	128	static
+gxsha1.c:201:5:gxsha1_encrypt	48	static

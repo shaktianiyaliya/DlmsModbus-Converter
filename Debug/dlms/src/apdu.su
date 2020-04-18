@@ -1,0 +1,15 @@
+apdu.c:45:5:apdu_getAuthenticationString	40	static
+apdu.c:104:5:apdu_generateApplicationContextName	40	static
+apdu.c:207:5:apdu_getInitiateRequest	32	static
+apdu.c:275:5:apdu_generateUserInformation	80	static
+apdu.c:349:5:apdu_parseUserInformation	64	static
+apdu.c:622:5:apdu_parseApplicationContextName	32	static
+apdu.c:735:5:apdu_validateAare	24	static
+apdu.c:766:5:apdu_updatePassword	24	static
+apdu.c:803:5:apdu_updateAuthentication	24	static
+apdu.c:905:5:apdu_getUserInformation	80	static
+apdu.c:985:5:apdu_generateAarq	24	static
+apdu.c:1019:5:apdu_handleResultComponent	24	static
+apdu.c:1047:5:apdu_parseProtocolVersion	40	static
+apdu.c:1082:5:apdu_parsePDU	40	static
+apdu.c:1453:5:apdu_generateAARE	48	static

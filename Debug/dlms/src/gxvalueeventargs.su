@@ -1,0 +1,9 @@
+gxvalueeventargs.c:40:6:vec_init	16	static
+gxvalueeventargs.c:49:6:vec_capacity	16	static
+gxvalueeventargs.c:63:6:vec_push	16	static
+gxvalueeventargs.c:81:6:vec_empty	16	static
+gxvalueeventargs.c:94:6:vec_clear	24	static
+gxvalueeventargs.c:113:5:vec_get	16	static
+gxvalueeventargs.c:124:5:vec_getByIndex	24	static
+gxvalueeventargs.c:134:6:ve_init	16	static
+gxvalueeventargs.c:153:6:ve_clear	16	static

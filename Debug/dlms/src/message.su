@@ -1,0 +1,3 @@
+message.c:41:6:mes_init	16	static
+message.c:49:6:mes_push	16	static
+message.c:68:6:mes_clear	24	static
