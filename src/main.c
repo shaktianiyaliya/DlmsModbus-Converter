@@ -984,6 +984,16 @@ static int gx_uart_init(char *uart_dev_name)
 }
 #endif
 
+////////////////////////////////////////************************************************//////////////////
+void delay_ms(unsigned int ms)
+{
+    unsigned int i,j;
+
+    for(i=0;i<ms;i++)
+        for(j=0;j<20000;j++);
+}
+
+////////////////////////////////////////********************************************//////////////////////////
 
 
 int main(void)
@@ -995,6 +1005,21 @@ int main(void)
   //init_systick();
   //started = _impl_k_uptime_get();
   characters = 0;
+	
+ //// Led Blink////
+  SystemInit();                    //Clock and PLL configuration
+  LPC_PINCON->PINSEL4 =0x00 ;  //Configure the PORT2 Pins as GPIO;
+  LPC_GPIO2->FIODIR = 0xffffffff;  //Configure the PORT2 pins as OUTPUT;
+
+  LPC_GPIO2->FIOSET = 0xffffffff;     // Make all the Port pins as high
+  //delay_ms(100);
+
+  LPC_GPIO2->FIOCLR = 0xffffffff;     // Make all the Port pins as low
+ // delay_ms(100);
+////// Led Blink///
+
+	
+// Reply structure Initialize 	
   bb_init(&reply);
   //energy_meter_init();	//rakesh
   // Here pdu is given
